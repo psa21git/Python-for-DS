@@ -3,7 +3,7 @@ print(type(5.5))
 print(type('5.5'))
 print(type(True))
 print(type("True"))
-print('------------------')
+print('---------------_---')
 #Functionalities in PRINT STATEMENT
 print('a')
 print('b')
